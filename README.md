@@ -43,3 +43,5 @@ The dataset used in this project consists of the following columns:
 - **README.md**: This readme file.
 
 ## Dashboard 
+
+![Video Game Sales Analysis](https://github.com/bhkritika/Video-Games-Sales-Analysis-Tableau-Dashboard/assets/141895513/4b04b02d-4157-40d3-afc8-d6e06cb6136a)
